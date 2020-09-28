@@ -144,4 +144,10 @@ public class NasaDataController {
 
         return "report";
     }
+
+
+    public boolean validate_line(String line_string) {
+        String pattern = "^([a-z0-9d]([-_]*[a-z0-9d])*)(.([a-z0-9d]([-_]*[a-z0-9d])*))* - - \\[[0-9]{1,2}/[A-Za-z]+/[0-9]{4}:[0-9]{1,2}:[0-9]{1,2}:[0-9]{1,2} -[0-9]{4}] \"[A-Z]{3,4} (\\S{1,}) HTTP/1.0\" [0-9]{3} [0-9-]+";
+        return line_string.matches(pattern);
+    }
 }
