@@ -1,0 +1,68 @@
+ -----------  NASA LOG REPORT ----------------
+
+
+----- The top 10 hosts making the most requests  ---------- 
+
+ ix-min1-02.ix.netcom.com 78
+ uplherc.upl.com 71
+ piweba3y.prodigy.com 69
+ s150.phxslip4.indirect.com 60
+ port26.ts1.msstate.edu 59
+ ottodix.miks3.iao.fhg.de 57
+ h96-158.ccnet.com 56
+ in24.inetnebr.com 55
+ thing1.cchem.berkeley.edu 54
+ nts137.dialup.hawaii.edu 50
+
+ ----- The top 5 pages from the top 10 hosts ---------- 
+
+ ix-min1-02.ix.netcom.com /history/apollo/apollo-12/ 9
+ ix-min1-02.ix.netcom.com /history/apollo/apollo-12/movies/ 6
+ ix-min1-02.ix.netcom.com /history/apollo/apollo-12/videos/ 5
+ ix-min1-02.ix.netcom.com /history/apollo/apollo-12/videos/moonflag.mpg 5
+ ix-min1-02.ix.netcom.com /history/apollo/apollo-16/ 3
+ uplherc.upl.com / 1
+ uplherc.upl.com /shuttle/missions/sts-63/sts-63-patch-small.gif 1
+ uplherc.upl.com /cgi-bin/imagemap/countdown70?61,223 1
+ uplherc.upl.com /shuttle/resources/orbiters/challenger-logo.gif 1
+ uplherc.upl.com /shuttle/technology/images/srb_mod_compare_6-small.gif 1
+ piweba3y.prodigy.com /images/ksclogosmall.gif 5
+ piweba3y.prodigy.com /history/apollo/apollo-11/apollo-11-patch-small.gif 4
+ piweba3y.prodigy.com /history/apollo/images/footprint-logo.gif 3
+ piweba3y.prodigy.com /images/ksclogo-medium.gif 3
+ piweba3y.prodigy.com /shuttle/technology/sts-newsref/sts_overview.html 3
+ s150.phxslip4.indirect.com /history/apollo/apollo-11/movies/ 3
+ s150.phxslip4.indirect.com /history/apollo/apollo-13/movies/ 3
+ s150.phxslip4.indirect.com /icons/blank.xbm 3
+ s150.phxslip4.indirect.com /icons/menu.xbm 3
+ s150.phxslip4.indirect.com /history/apollo/apollo-13/apollo-13.html 2
+ port26.ts1.msstate.edu /shuttle/missions/sts-68/sts-68-patch-small.gif 7
+ port26.ts1.msstate.edu /shuttle/missions/sts-63/sts-63-patch-small.gif 5
+ port26.ts1.msstate.edu /images/launchmedium.gif 2
+ port26.ts1.msstate.edu /shuttle/missions/sts-63/mission-sts-63.html 2
+ port26.ts1.msstate.edu /images/ksclogosmall.gif 2
+ ottodix.miks3.iao.fhg.de /shuttle/missions/sts-73/news/ 2
+ ottodix.miks3.iao.fhg.de /shuttle/missions/sts-73/ 2
+ ottodix.miks3.iao.fhg.de /shuttle/missions/missions.html 1
+ ottodix.miks3.iao.fhg.de /images/opf-logo.gif 1
+ ottodix.miks3.iao.fhg.de /shuttle/resources/orbiters/columbia-logo.gif 1
+ h96-158.ccnet.com /history/apollo/a-001/a-001-patch-small.gif 4
+ h96-158.ccnet.com /history/skylab/skylab-small.gif 3
+ h96-158.ccnet.com /history/apollo/a-004/a-004-patch-small.gif 2
+ h96-158.ccnet.com /images/vab-small.gif 2
+ h96-158.ccnet.com /history/apollo/a-001/movies/ 2
+ in24.inetnebr.com /shuttle/missions/sts-59/ 5
+ in24.inetnebr.com /shuttle/missions/sts-59/sts-59-patch-small.gif 5
+ in24.inetnebr.com /shuttle/missions/sts-59/mission-sts-59.html 3
+ in24.inetnebr.com /shuttle/missions/sts-59/docs/ 2
+ in24.inetnebr.com /shuttle/missions/sts-68/mission-sts-68.html 2
+ thing1.cchem.berkeley.edu / 3
+ thing1.cchem.berkeley.edu /images/ksclogo-medium.gif 3
+ thing1.cchem.berkeley.edu /images/MOSAIC-logosmall.gif 3
+ thing1.cchem.berkeley.edu /images/NASA-logosmall.gif 3
+ thing1.cchem.berkeley.edu /images/USA-logosmall.gif 3
+ nts137.dialup.hawaii.edu /software/winvn/winvn.html 1
+ nts137.dialup.hawaii.edu /software/winvn/userguide/winvn11.gif 1
+ nts137.dialup.hawaii.edu /software/winvn/userguide/docscont.gif 1
+ nts137.dialup.hawaii.edu /software/winvn/userguide/winvn40.gif 1
+ nts137.dialup.hawaii.edu /software/winvn/winvn.gif 1
