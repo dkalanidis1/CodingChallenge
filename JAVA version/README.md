@@ -1,5 +1,4 @@
 # Coding Challenge
 
 
-The java version of the application
-
+The Java Spring MVC version of the application
